@@ -1,9 +1,4 @@
 # cs-darkroom
-Sure! Here’s a simplified `README.md` tailored to your script with the instructions you provided:
-
-```markdown
-# Socket.IO Chat Client
-
 This Node.js script connects to a Socket.IO server and allows you to send and receive chat messages from the command line.
 
 ## Prerequisites
